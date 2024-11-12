@@ -1,0 +1,12 @@
+Comandos:
+clear: Limpa a área de texto.
+wopen <URL>: Abre um link no navegador padrão.
+wm install <package>: Simula a instalação de um pacote.
+ac: Volta ao diretório anterior.
+dc <diretório>: Troca para um diretório específico.
+warq <arquivo>: Abre o arquivo com o programa associado.
+list: Lista arquivos no diretório atual.
+pst: Lista subpastas no diretório atual.
+
+Como rodar:
+python worm.py
